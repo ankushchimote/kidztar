@@ -17,7 +17,7 @@ const Home = () => {
   fontStyle: 'normal',
   fontVariationSettings: "'wdth' 100"}}>
     
-    <First/>
+{/*     <First/> */}
     <Second/> 
     <Third/>
     <Fourth/>
