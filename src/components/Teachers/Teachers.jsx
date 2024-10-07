@@ -31,8 +31,8 @@ const Teachers = () => {
       ))}
     </div>
 
-     <br /><br />
-      <Eighth/>
+     <br />
+      
     </>
   )
 }
