@@ -50,7 +50,8 @@ const Footer = () => {
             <li>Site Maps</li>
          </ul>
          <div className='footer_cpyright_right'>
-           copyright@kidzstar.Allright Reserved.
+           {/* copyright@kidzstar.Allright Reserved. */}
+           Developed by Rahul Chimote
          </div>
       </div>
     </div>
